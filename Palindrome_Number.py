@@ -10,6 +10,6 @@ while temp > 0:
     temp = temp // 10
     print(temp, "z")
 if num == reverse:
-  print('Palindrome')
+  print('PalinDrome')
 else:
   print("Not Palindrome")
