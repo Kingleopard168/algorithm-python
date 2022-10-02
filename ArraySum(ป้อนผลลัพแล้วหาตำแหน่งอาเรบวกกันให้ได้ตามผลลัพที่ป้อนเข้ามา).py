@@ -10,9 +10,9 @@ def twoSumNaive(num_arr, pair_sum):
 
       
 
-# Driver Code
+# Driver Code 
 num_arr = [3, 5, 2, -4, 8, 11]
-pair_sum = 7
+pair_sum = 8
 
 # Function call inside print
 twoSumNaive(num_arr, pair_sum) 
