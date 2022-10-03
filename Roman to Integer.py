@@ -17,5 +17,5 @@ class Solution(object):
       return num
 ob1 = Solution()
 #print("result")
-print(ob1.romanToInt("MCMXCIV"))
+print(ob1.romanToInt("CDXLIII"))
 #print(ob1.romanToInt("CDXLIII"))
