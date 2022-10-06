@@ -19,7 +19,7 @@ def areBracketsBalanced(expr):
 			# IF current character is not opening
 			# bracket, then it must be closing.
 			# So stack cannot be empty at this point.
-			if expr != "":
+			if not stack:
 				return False
 			current_char = stack.pop()
 			if current_char == '(':
